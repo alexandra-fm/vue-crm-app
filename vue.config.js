@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === "production" ? "/vue-crm-system/" : "/",
+  publicPath: process.env.NODE_ENV === "production" ? "/vue-crm-app/" : "/",
 };
